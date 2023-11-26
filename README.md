@@ -1,1 +1,3 @@
 # git-test
+My fisrt GitHub repo!
+Hello Odin! 
